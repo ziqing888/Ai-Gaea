@@ -1,7 +1,7 @@
 {
-    "name": "aigea-bot-proxy",
+    "name": "Ai-Gaea-bot",
     "version": "1.0.0",
-    "description": "A script to handle proxies, authentication, and pinging with unique browser IDs.",
+    "description": "处理代理、身份验证和使用唯一浏览器 ID ping 的脚本",
     "main": "main.js",
     "scripts": {
         "start": "node main.js"
@@ -14,19 +14,11 @@
     "engines": {
         "node": ">=16.0.0"
     },
-    "author": "@Zlkcyber",
     "license": "ISC",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/Zlkcyber/aigaea-bot.git"
-    },
     "keywords": [
         "aigea",
-        "proxy",
+        "代理",
+        "自动化",
         "https://app.aigaea.net/"
-    ],
-    "bugs": {
-        "url": "https://github.com/Zlkcyber/aigaea-bot/issues"
-    },
-    "homepage": "https://github.com/Zlkcyber/aigaea-bot#readme"
+    ]
 }
