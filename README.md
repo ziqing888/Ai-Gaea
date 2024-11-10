@@ -1,6 +1,7 @@
 ## AIGEA 代理机器人 [https://app.aigaea.net/](https://app.aigaea.net/register?ref=gaU26qDGEI53kx)
 
-![banner](image.png)
+![Uploading image.png…]()
+
 
 # Aigaea 代理管理器
 
