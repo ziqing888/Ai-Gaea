@@ -1,3 +1,5 @@
+const chalk = require('chalk'); // 确保已经安装了 chalk
+
 (async () => {
   const fetch = (await import('node-fetch')).default;
   const fs = require('fs').promises;
@@ -16,6 +18,13 @@
   }
 
   async function main() {
+      // 添加 logo 输出
+      console.log(chalk.yellow('╔════════════════════════════════════════╗'));
+      console.log(chalk.yellow('║      🚀  Ai-Gaea-bot     🚀           ║'));
+      console.log(chalk.yellow('║  👤    脚本编写：@qklxsqf              ║'));
+      console.log(chalk.yellow('║  📢  电报频道：https://t.me/ksqxszq    ║'));
+      console.log(chalk.yellow('╚════════════════════════════════════════╝'));
+
       const accessToken = await askQuestion("请输入您的 accessToken :");
 
       let headers = {
@@ -152,3 +161,4 @@
 
   main();
 })();
+
