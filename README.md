@@ -53,7 +53,8 @@
 
 4. 控制台中会显示一个类似 `"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVC..."` 的字符串，这就是您的 `accessToken`。将此令牌复制下来，用于脚本中。
 
-    ![gaea-token](image-1.png)
+   ![image](https://github.com/user-attachments/assets/d2fa1cc3-6d0f-4bcc-9fa2-38b55b8fc510)
+
 
 
 ## 运行脚本
