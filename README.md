@@ -20,7 +20,7 @@
 1. **克隆仓库或下载脚本**：
 
     ```bash
-    git clone https://github.com/ziqing888/Ai-Gaea/blob.git
+    git clone https://github.com/ziqing888/Ai-Gaea.git
     cd aigea-bot
     ```
 
