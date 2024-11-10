@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/98583168-c3b7-4fc0-b02a-82569b2796aa)## AIGEA 代理机器人 [https://app.aigaea.net/](https://app.aigaea.net/register?ref=gaU26qDGEI53kx)
+## AIGEA 代理机器人 [https://app.aigaea.net/](https://app.aigaea.net/register?ref=gaU26qDGEI53kx)
 
 ![image](https://github.com/user-attachments/assets/85941907-739c-4da4-a8c0-63942b81f662)
 
