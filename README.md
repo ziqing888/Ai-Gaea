@@ -21,7 +21,8 @@
 
     ```bash
     git clone https://github.com/ziqing888/Ai-Gaea.git
-    cd aigea-bot
+    cd Ai-Gaea
+
     ```
 
 2. **安装依赖**：
